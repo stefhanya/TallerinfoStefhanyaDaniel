@@ -80,7 +80,7 @@ class ProcesadorDICOM:
 
 if __name__ == "__main__":
 
-    ruta_default = r"C:\Users\Est01\Downloads\T2"
+    ruta_default = r"C:\Users\Est01\Documents\stefhanya\TallerinfoStefhanyaDaniel-1\T2"
 
     print("\n=== PROCESADOR DICOM ===")
     print("Presiona ENTER para usar la ruta por defecto:")
