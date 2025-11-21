@@ -1,4 +1,4 @@
-# Procesador de Archivos DICOM — Informe y Discusión (Versión Completa)
+# Procesador de Archivos DICOM 
 
 ## 1. Descripción del proyecto
 
