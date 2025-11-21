@@ -1,6 +1,7 @@
 <p align="center">
   <img src="udea.jpg" width="180" alt="Escudo UdeA">
 </p>
+
 # Procesador de Archivos DICOM 
 
 ## 1. Descripción del proyecto
