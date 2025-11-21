@@ -1,4 +1,4 @@
-#Autores: Daniel Cavieres Y stefhanya Gonzalez
+# Autores: Daniel Cavieres Y Stefhanya Gonzalez
 
 <p align="center">
   <img src="udea.jpg" width="180" alt="Escudo UdeA">
